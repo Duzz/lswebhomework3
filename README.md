@@ -31,6 +31,8 @@ I'm learning: Python Java Script HTML CSS and GIT
 
 2. Inside that repository create a file at README.md, and enter the following in that file:
 
+You can find that repo [Here](https://github.com/Duzz/hellolambdaschool/blob/master/README.md)
+
 \`\`\`
 I am learning how to use git at Lambda School's [online code bootcamp][2]
 \`\`\`
