@@ -20,7 +20,7 @@ I'm learning: Python Java Script HTML CSS and GIT
 \`\`\`
 
 4. Add a screenshot (.jpg or .png is fine) of a tweet you've altered using Inspect Element in Chrome to the project folder.
-![Lambda-School-Tweet][1](../lambda-tweet.png?raw=true “Screenshot”)
+![Lambda-School-Tweet][1](/lambda-tweet.png?raw=true “Screenshot”)
 
 4. Push it up to your own repository on Github (don't try to override the original).
 
