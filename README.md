@@ -19,10 +19,11 @@ I'm learning: Python Java Script HTML CSS and GIT
 
 \`\`\`
 
-/lambda-tweet.png4. Add a screenshot (.jpg or .png is fine) of a tweet you've altered using Inspect Element in Chrome to the project folder.
+4. Add a screenshot (.jpg or .png is fine) of a tweet you've altered using Inspect Element in Chrome to the project folder.
+
 ![Lambda-School-Tweet](https://raw.githubusercontent.com/Duzz/lswebhomework3/master/lambda-tweet.png)
 
-4. Push it up to your own repository on Github (don't try to override the original).
+5. Push it up to your own repository on Github (don't try to override the original).
 
 ## Task Two
 
